@@ -1,4 +1,4 @@
-# sample-app
+# sample-app（勉強用連絡先アプリ）
 
 ## Project setup
 ```
